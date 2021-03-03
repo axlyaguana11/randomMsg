@@ -14,11 +14,18 @@
   "author": "Axel Yaguana <axl9809@gmail.com>",
   "license": "MIT",
   "bin": {
-    "random-msg": "./bin/global.js"
+    "random-msg": "bin/global.js"
   },
   "preferGlobal": true,
   "publishConfig": {
     "access": "public"
-  }
-
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/axlyaguana11/randomMsg.git"
+  },
+  "bugs": {
+    "url": "https://github.com/axlyaguana11/randomMsg/issues"
+  },
+  "homepage": "https://github.com/axlyaguana11/randomMsg#readme"
 }
