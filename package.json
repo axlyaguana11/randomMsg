@@ -1,6 +1,6 @@
 {
   "name": "@axlyaguana11/random-messages",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "It's a NPM package that returns a random name of football clubs.",
   "main": "src/index.js",
   "scripts": {
